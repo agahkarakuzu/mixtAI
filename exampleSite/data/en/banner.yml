@@ -2,10 +2,10 @@
 banner:
   enable : true
   bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/mixtAI_banner.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "PUTTING INTELLIGENCE BACK IN COCKT(AI)LS"
+  content : "We believe that everyone deserves a perfectly crafted drink, tailored to their unique tastes and preferences. That's why we've combined the art of mixology with cutting-edge AI technology to create personalized cocktails that are both delicious and innovative."
   button:
     enable : true
     label : "Explore Us"
