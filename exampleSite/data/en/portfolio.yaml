@@ -1,0 +1,18 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Today's Event
+  portfolio_item :
+    # portfolio item loop
+    - name : Menu
+      image : https://github.com/agahkarakuzu/mixtAI/blob/master/exampleSite/static/images/portfolio/menu1.jpg?raw=true
+      categories : ["menu"]
+      content : Cockt(AI)ls for QANTAROT SPEAKEASY
+      link : "https://themefisher.com"
+
+    # portfolio item loop
+    - name : Playlist
+      image : https://github.com/agahkarakuzu/mixtAI/blob/master/exampleSite/static/images/portfolio/playlist1.jpg?raw=true
+      categories : ["playlist"]
+      content : A playlist that matches QANTAROT SPEAKEASY Cockt(AI)ls
+      link : ""
