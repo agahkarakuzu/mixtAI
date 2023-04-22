@@ -1,8 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : https://github.com/agahkarakuzu/mixtAI/blob/master/exampleSite/static/images/about/bartables.jpg?raw=true
   title : We’re a cockt(AI)l startup 
   content : " Where every sip is a perfect trip, thanks to AI's mixology script."
   feature_item : 
