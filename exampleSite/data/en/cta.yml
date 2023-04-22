@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Crafting the Perfect Mix of Style and Convenience for Your Next Event"
+  content : "Whether you're interested in hiring us for your next event, partnering with us on a project, or just want to learn more about our AI-powered mixology, we're here to help."
   button:
     enable : true
-    label : "Start a project with us"
+    label : "Organize your event"
     link : "#contact"
