@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : We’re a cockt(AI)l startup 
+  content : " Where every sip is a perfect trip, thanks to AI's mixology script."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Personalized
+      icon : ti-target # themify icon pack : https://themify.me/themify-icons
+      content : We design a bespoke menu for every event, using a brief written by the host to ensure uniqueness.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Mixology Reimagined
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Our AI model constantly improves all of our cocktail recipes, from the classics to the specials.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Freelance 
+      icon : ti-filter # themify icon pack : https://themify.me/themify-icons
+      content : We provide skilled bartenders with freelance event opportunities, allowing them to make the most of their time and showcase their talents.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Smart Inventory
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Our AI-powered inventory management system keeps track of our stock levels, reorder supplies automatically, and avoid running out of ingredients during events.
