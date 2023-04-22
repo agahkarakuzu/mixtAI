@@ -5,22 +5,22 @@ testimonial:
   bg_image_webp : images/backgrounds/bg-testimonial.webp
   testimonial_item :
     # testimonial item loop
-    - name : Jonathon Andrew
+    - name : Francois - mixtAI customer
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Jan 16, 2022
+      content : I'm blown away by the personalized cocktails that MixtAI creates. Every drink is a perfect match for my taste buds - it's like they read my mind!
       
     # testimonial item loop
-    - name : Mark Dinn
+    - name : Mark - event planner
       image : images/client/client-2.jpg
       image_webp : images/client/client-2.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Dec 26, 2021
+      content : As an event planner, I can't recommend MixtAI enough. Their custom menus always impress my clients and their guests, and their skilled bartenders are a pleasure to work with.
       
     # testimonial item loop
-    - name : Lemos Kail
+    - name : Lemos - mixtAI partner
       image : images/client/client-1.jpg
       image_webp : images/client/client-1.webp
-      date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      date : Dec 26, 2022
+      content : MixtAI van truly revolutionize the cocktail industry. Their AI technology not only improves recipes, but it also allows for more efficient inventory management and cost savings.
